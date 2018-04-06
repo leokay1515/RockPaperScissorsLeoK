@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RockPaperScissorsLeoK\RockPaperScissorsLeoK\bin\Debug\RockPaperScissorsLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RockPaperScissorsLeoK\RockPaperScissorsLeoK\bin\Debug\RockPaperScissorsLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RockPaperScissorsLeoK\RockPaperScissorsLeoK\bin\Debug\RockPaperScissorsLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RockPaperScissorsLeoK\RockPaperScissorsLeoK\obj\Debug\RockPaperScissorsLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RockPaperScissorsLeoK\RockPaperScissorsLeoK\obj\Debug\RockPaperScissorsLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RockPaperScissorsLeoK\RockPaperScissorsLeoK\obj\Debug\RockPaperScissorsLeoK.frmRockPaperScissorsLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RockPaperScissorsLeoK\RockPaperScissorsLeoK\obj\Debug\RockPaperScissorsLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RockPaperScissorsLeoK\RockPaperScissorsLeoK\obj\Debug\RockPaperScissorsLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 3 (Decisions)\RockPaperScissorsLeoK\RockPaperScissorsLeoK\obj\Debug\RockPaperScissorsLeoK.pdb
